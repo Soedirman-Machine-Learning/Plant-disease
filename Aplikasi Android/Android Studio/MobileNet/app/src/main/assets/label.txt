@@ -1,0 +1,15 @@
+Tomato___Late_blight 
+Tomato___Septoria_leaf_spot 
+Tomato___Leaf_Mold
+Tomato___Target_Spot 
+Tomato___healthy 
+Tomato___Early_blight 
+Tomato___Bacterial_spot 
+Tomato___Yellow_Leaf_Curl_Virus
+Tomato___Spider_mites_20Two-spotted_spider_mite
+Cassava___cmd
+Cassava___cbsd
+Cassava___healthy
+Cassava___cgm
+Tomato___mosaic_virus
+Cassava___cbb
