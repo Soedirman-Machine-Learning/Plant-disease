@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Plant Diseases Inc</string>
+    <string name="pendeteksi">identifikasi dengan Kamera</string>
+    <string name="import_gallery">Identfikasi dari Galeri</string>
+    <string name="tentang">Tentang Aplikasi</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="content_work">Aplikasi ini bekerja dengan cara mengambil citra/gambar obyek menggunakan kamera <i>smartphone</i> atau mengimpor gambar dari galeri foto yang sudah tersimpan.  Kemudian dilakukan identifikasi penyakit tanaman berdasrkan citra daun menggunakan metode <i>Deep Learning</i></string>
+    <string name="content_step_1">Buka Aplikasi Plant Diseases</string>
+    <string name="content_step_2">Memilih metode yang digunakan, <b>IDENTIFIKASI DENGAN KAMERA</b>atau <b>IDENTIFIKASI DARI GALERI</b></string>
+    <string name="content_step_3"><b>IDENTIFIKASI DENGAN KAMERA</b> penggunanaannya dengan cara mengambil gambar secara langsung pada obyek yang akan di identifikasi, lalu tekan tombol "DETEK" untuk identifikasi</string>
+    <string name="content_step_4"><b>IDENTIFIKASI DARI GALERI</b> penggunaannya dengan cara menekan tombol "PILIH GAMBAR" lalu pilih foto yang terdapat pada gallery untuk identifikasi </string>
+    <string name="content_step_5">Hasil dari kedua identifikasi akan muncul dengan nilai probabilitasnya, serta waktu yang dibutuhkan untuk identifikasi juga di tampilkan dalam satuan ms</string>
+    <string name="hasil_1_nhasil_2_nhasil_3"><b>Prediksi 1</b>\nPrediksi 2\nPrediksi 3</string>
+    <string name="process_time">… ms   </string>
+    <string name="delay_time">… ms   </string>
+    <string name="info">Klik DETEKSI untuk Identifikasi</string>
+    <string name="buttonSelectPhoto">Pilih Gambar</string>
+    <string name="descriptionImage">Lihat untuk Menampilkan Gambar</string>
+    <string name="display_result"><b>Hasil Prediksi</b>\n</string>
+    <string name="hints">Pilih Gambar Lalu Klik DETEKSI</string>
+    <string name="namaapp"><b>Plant Disesases 1.0</b></string>
+    <string name="content_about">Aplikasi Plant Diseases dapat digunakan bagi para petani, peneliti dan lainnya dalam mengidentifikasi awal pada penyakit tanaman.</string>
+</resources>
