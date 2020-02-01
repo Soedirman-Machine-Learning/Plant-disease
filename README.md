@@ -15,3 +15,16 @@
 Berikut contoh penggunaannya:
 
 <img src="Data Hasil Uji/Tutarial-1.gif" width="240" height="427"> <img src="Data Hasil Uji/Tutorial-2.gif" width="240" height="427">
+
+
+## Penyakit Yang Dapat Di Identifikasi
+<table border="1" cellpadding="10">
+        <tr>
+            <td>Baris 1 kolom 1</td>
+            <td>baris 1 kolom 2</td>
+        </tr>
+        <tr>
+            <td>Baris 2 kolom 1</td>
+            <td>baris 2 kolom 2</td>
+        </tr>
+    </table>
