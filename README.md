@@ -18,7 +18,7 @@ Berikut contoh penggunaannya:
 
 
 ## Penyakit Yang Dapat Di Identifikasi
-<table border="1" cellpadding="10">
+<table border="1">
         <tr>
             <td>Baris 1 kolom 1</td>
             <td>baris 1 kolom 2</td>
@@ -27,4 +27,4 @@ Berikut contoh penggunaannya:
             <td>Baris 2 kolom 1</td>
             <td>baris 2 kolom 2</td>
         </tr>
-    </table>
+</table>
