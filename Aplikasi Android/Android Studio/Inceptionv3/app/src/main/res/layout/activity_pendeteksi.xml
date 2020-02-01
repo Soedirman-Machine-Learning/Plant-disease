@@ -98,7 +98,7 @@
     <TextView
         android:id="@+id/result_bar"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:layout_marginTop="4dp"
         android:background="#61009688"
         android:fontFamily="times"
