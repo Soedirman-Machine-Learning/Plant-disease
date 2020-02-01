@@ -18,13 +18,20 @@ Berikut contoh penggunaannya:
 
 
 ## Penyakit Yang Dapat Di Identifikasi
-<table border="1">
-        <tr>
-            <td>Baris 1 kolom 1</td>
-            <td>baris 1 kolom 2</td>
-        </tr>
-        <tr>
-            <td>Baris 2 kolom 1</td>
-            <td>baris 2 kolom 2</td>
-        </tr>
-</table>
+
+1. Tomat Bacterial spot 
+2. Tomat Early blight 
+3. Tomat healthy 
+4. Tomat Late blight 
+5. Tomat Leaf Mold 
+6. Tomat Septoria leaf spot 
+7. Tomat Spider mites Two spotted spider mite 
+8. Tomat Target_Spot 
+9. Tomat Mosaic virus 
+10. Tomat Yellow Leaf Curl Virus
+11. Cassava Bacteial Blight 
+12. Cassava Brown Streak Disease 
+13. Cassava Green Mottle 
+14. Cassava Mosaic Disease 
+15. Cassava Healty 
+
