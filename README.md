@@ -1,8 +1,5 @@
 <p align="center"><img src="logo.png" width="250" height="250" align="center"></p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+
 
 # Plant-disease
 <p align="justify"> Dibuat untuk mengidentifikasi penyakit tanaman pada daun tomat dan daun singkong. Identifikasi dilakukan melalui pengambilan citra daun menggunakan metode <i>Convolutional Neural Network</i> (CNN). Program di buat dengan mmenggunakan bahasa <i>phyton</i> dan <b>Google <i>Colaboratory</i></b> sebagai infrastruktur yang digunakan.</p> 
@@ -15,6 +12,6 @@
 4. <b>IDENTIFIKASI DARI GALERI</b> pengggunaanya dengan cara menekan tombol <b>PILIH  GAMBAR</b> lalu memilih foto yang terdapat pada galeri untuk identifikasi
 5. Hasil dari kedua Identifikasi akan muncul dengan nilai probabilitas, serta waktu yang dibutuhkan untuk identifikasi ditampilkan dalam satuan ms
 
-Berikut contoh penggunaanya:
+Berikut contoh penggunaannya:
 
 <img src="Data Hasil Uji/Tutarial-1.gif" width="240" height="427"> <img src="Data Hasil Uji/Tutorial-2.gif" width="240" height="427">
